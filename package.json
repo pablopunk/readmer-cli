@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Create simple Readme files automatically",
   "main": "index.js",
+  "bin": {
+    "readmer": "index.js"
+  },
   "author": "Pablo Varela <pablovarela182@gmail.com>",
   "license": "MIT",
   "dependencies": {

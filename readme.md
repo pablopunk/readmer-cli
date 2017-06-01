@@ -5,7 +5,7 @@
   <i>Create simple Readme files automatically</i>
 </p>
 <p align="center">
-  <a href="https://www.npmjs.com/package/find-repos-cli"><img src="https://img.shields.io/npm/dt/readmer-cli.svg" /></a>
+  <a href="https://www.npmjs.com/package/readmer-cli"><img src="https://img.shields.io/npm/dt/readmer-cli.svg" /></a>
 </p>
 
 ## Install

@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-npm install readmer-cli
+npm install -g readmer-cli
 ```
 
 ## Usage

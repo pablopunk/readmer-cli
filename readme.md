@@ -44,6 +44,8 @@ Use `readmer -h`  to display this help:
 
 Feel free to open an _issue_ or a _PR_.
 
+>NOTE: For issues regarding the markdown output, data options, etc, refer to the [API repo](https://github.com/pablopunk/readme).
+
 ## Related
 
 API for this module => [readmer](https://github.com/pablopunk/readmer)

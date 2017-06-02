@@ -56,9 +56,9 @@ pkginfo@0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/pkginfo/-/pkginfo-0.4.0.tgz#349dbb7ffd38081fcadc0853df687f0c7744cd65"
 
-readmer@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/readmer/-/readmer-1.1.1.tgz#010ceafed0273dc88126d9b2410838c415cc5b86"
+readmer@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/readmer/-/readmer-1.2.0.tgz#4ab8a881b83f6c56b9089ff2f06527c9c9cd9dea"
 
 string-similarity@1.1.0:
   version "1.1.0"

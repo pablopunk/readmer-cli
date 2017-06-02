@@ -44,6 +44,10 @@ Use `readmer -h`  to display this help:
 
 Feel free to open an _issue_ or a _PR_.
 
+## Related
+
+API for this module => [readmer](https://github.com/pablopunk/readmer)
+
 ## Author
 
 | ![me](https://www.gravatar.com/avatar/fa50aeff0ddd6e63273a068b04353d9d?s=100)|

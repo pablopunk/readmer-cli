@@ -11,5 +11,19 @@
   "dependencies": {
     "args": "^3.0.2",
     "readmer": "^1.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablopunk/readmer-cli.git"
+  },
+  "keywords": [
+    "readme",
+    "docs",
+    "node",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/pablopunk/readmer-cli/issues"
+  },
+  "homepage": "https://github.com/pablopunk/readmer-cli#readme"
 }

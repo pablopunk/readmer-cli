@@ -52,6 +52,7 @@ Feel free to open an _issue_ or a _PR_.
 ## Related
 
 API for this module => [readmer](https://github.com/pablopunk/readmer)
+Minimal node boilerplate => [miny](https://github.com/pablopunk/miny)
 
 ## Author
 
